@@ -5,5 +5,7 @@
 
 I'm interested in the web application. 💻
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumiini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sumiini515@gmail.com)
 	
