@@ -1,6 +1,6 @@
-### Hi there 👋
+### <div align="center" >Hi I'm Sumin 👋</div>
 
-#### I'm interested in the web application. 💻
+#### <div align="center" >💜 I'm interested in the web application. 💻 💜</div>
 
 ### <div align="center" >🛠 STACK ⚒</div>  
 ### <div align="center" >That i've used at least once</div>
