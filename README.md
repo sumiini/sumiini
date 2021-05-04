@@ -2,7 +2,7 @@
 
 #### <div align="center" >💜 I'm interested in the web application. 💻 💜</div>
 
-
+#
 
 ### <div align="center" >🛠 STACK ⚒</div>  
 ### <div align="center" >That i've used at least once</div>
@@ -27,8 +27,5 @@
 
 
 #
-#
-#  
-#  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumiini&show_icons=true&theme=dracula)
