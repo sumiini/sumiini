@@ -28,7 +28,8 @@
 
 
 
-    
+        
+	
  <div align="center">💜Contact Me💜</div>  
- <div align="center">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)]</div>(mailto:sumiini515@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sumiini515@gmail.com)
 	
