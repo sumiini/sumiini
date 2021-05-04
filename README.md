@@ -24,3 +24,7 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></div>
+
+
+
+<div align="center" >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumiini&show_icons=true&theme=dracula)</
