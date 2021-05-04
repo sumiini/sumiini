@@ -2,6 +2,8 @@
 
 #### <div align="center" >💜 I'm interested in the web application. 💻 💜</div>
 
+
+
 ### <div align="center" >🛠 STACK ⚒</div>  
 ### <div align="center" >That i've used at least once</div>
   
@@ -23,8 +25,8 @@
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></div>
 
-    
- <div align="center">💜Contact Me💜</div>    
- 
- 
-  <div align="center"><a href="mailto:sumiini515@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
+
+<div align="center">💜Contact Me💜</div>
+
+
+<div align="center"><a href="mailto:sumiini515@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
