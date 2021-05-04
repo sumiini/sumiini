@@ -2,8 +2,8 @@
 
 #### I'm interested in the web application. 💻
 
-### 🛠 STACK ⚒  
-### That i've used at least once
+### <div align="center" >🛠 STACK ⚒</div>  
+### <div align="center" >That i've used at least once</div>
   
 <div align="center" ><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
