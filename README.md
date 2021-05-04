@@ -31,5 +31,5 @@
         
 	
  <div align="center">💜Contact Me💜</div>  
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumiini515@gmail.com)](mailto:sumiini515@gmail.com)
+  <div align="center">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumiini515@gmail.com)]</div>
 	
